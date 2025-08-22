@@ -23,17 +23,64 @@
     </a>
 </p>
 
-## content
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/ileidareis/)](https://www.linkedin.com/in/ileidareis/)
+### 🌸 Soft Skills
 
+<div align="center">
 
-## 🎓 Cursos & Certificações
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/communication.png" alt="Communication"/><br>
+        <sub>Communication</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/teamwork.png" alt="Collaboration"/><br>
+        <sub>Collaboration</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/idea.png" alt="Problem Solving"/><br>
+        <sub>Problem Solving</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/project-management.png" alt="Project Management"/><br>
+        <sub>Project Management</sub>
+      </td>
+    </tr>
+  </table>
 
-- 📊 **Google Data Analytics Certificate** – Coursera *(em andamento)*  
-- 📈 **Excel para Análise de Dados** – Coursera *(em andamento)*   
-- 🐍 **Python para Análise de Dados** – Coursera *(em andamento)*  
-- 📊 **Tableau/Power BI para Data Visualization** – Coursera *(em andamento)*  
-- 🧮 **Estatística Aplicada à Análise de Dados** – Coursera *(em andamento)* 
+</div>
+
+### 🎓 Cursos & Certificações
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/combo-chart--v1.png" alt="Google Data Analytics"/><br>
+        <sub>Google Data Analytics<br>Coursera (em andamento)</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/ms-excel.png" alt="Excel"/><br>
+        <sub>Excel para Análise de Dados<br>Coursera (em andamento)</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/python.png" alt="Python"/><br>
+        <sub>Python para Análise de Dados<br>Coursera (em andamento)</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/pie-chart.png" alt="Data Viz"/><br>
+        <sub>Tableau/Power BI<br>Coursera (em andamento)</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/statistics.png" alt="Estatística"/><br>
+        <sub>Estatística Aplicada<br>Coursera (em andamento)</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ## 📈 Objetivo de Carreira
 Construir uma trajetória sólida em **Data Analytics & HR Analytics**, ajudando empresas a:
@@ -43,10 +90,12 @@ Construir uma trajetória sólida em **Data Analytics & HR Analytics**, ajudando
 - Tomar decisões estratégicas baseadas em dados  
 
 ---
+# Socials
 
-## 📬 Contato
-- 💼 [LinkedIn](www.linkedin.com/in/ileidareis)  
-- 📧 Email: ileidadosreisgmail.com  
+Here you can find all my online profiles, feel free to connect.
+
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://wwww.linkedin.com/in/ileidareis-/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ileidadosreis@gmail.com)
 
 ---
-✨ Obrigada por visitar meu perfil! Explore meus repositórios para conhecer mais sobre meus projetos 🚀
+✨ Obrigada por visitar meu perfil!
