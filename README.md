@@ -50,7 +50,7 @@
 
 </div>
 
-### 🎓 Cursos & Certificações
+### 🎓 Courses & Certifications
 
 <div align="center">
 
@@ -82,12 +82,33 @@
 </div>
 
 
-## 📈 Objetivo de Carreira
-Construir uma trajetória sólida em **Data Analytics & HR Analytics**, ajudando empresas a:
-- Melhorar a **experiência dos colaboradores**  
-- Reduzir custos com **rotatividade e absenteísmo**  
-- Apoiar políticas de **diversidade e inclusão**  
-- Tomar decisões estratégicas baseadas em dados  
+### 📈 Career Objective
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/happy.png" alt="Melhorar Experiência" /><br>
+        <sub>Melhorar a experiência dos colaboradores</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/money.png" alt="Reduzir Custos" /><br>
+        <sub>Reduzir custos com rotatividade e absenteísmo</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/diversity.png" alt="Diversidade" /><br>
+        <sub>Apoiar políticas de diversidade e inclusão</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/55/analytics.png" alt="Decisões Baseadas em Dados" /><br>
+        <sub>Tomar decisões estratégicas baseadas em dados</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+ 
 
 ---
 # Socials
