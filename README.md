@@ -1,9 +1,10 @@
 ##  👩🏻‍💻 Ileida dos Reis
 
 
-🎯 **Analista de Dados em formação**, com base sólida em **Gestão** (Licenciatura) e **Gestão de Recursos Humanos** (Mestrado).  
-💡 Tenho paixão por transformar dados em insights que apoiam decisões estratégicas em **People Analytics**.  
-🌎 Busco aplicar minhas competências no mercado dos **Estados Unidos**, unindo minha experiência em gestão à análise de dados.
+🎯 **Data Analyst in training**, with a solid background in **Management** (Bachelor's Degree) and **Human Resources Management** (Master's Degree).  
+💡 I am passionate about transforming data into insights that support strategic decisions in **People Analytics**.  
+🌎 I seek to apply my skills in the **United States** market, combining my management experience with data analysis.
+
 
 
 </a> 
@@ -119,4 +120,4 @@ Here you can find all my online profiles, feel free to connect.
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ileidadosreis@gmail.com)
 
 ---
-✨ Obrigada por visitar meu perfil!
+✨ Thank you for visiting my profile!
