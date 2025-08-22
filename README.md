@@ -23,6 +23,10 @@
     </a>
 </p>
 
+## content
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?&logo=Linkedin&link=https://www.linkedin.com/in/ileidareis/)](https://www.linkedin.com/in/ileidareis/)
+
+
 ## 🎓 Cursos & Certificações
 
 - 📊 **Google Data Analytics Certificate** – Coursera *(em andamento)*  
