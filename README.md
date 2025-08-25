@@ -63,11 +63,11 @@
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/ms-excel.png" alt="Excel"/><br>
-        <sub>Excel para Análise de Dados<br>Coursera (em andamento)</sub>
+        <sub>Excel for Data Analysis<br>Coursera (em andamento)</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/python.png" alt="Python"/><br>
-        <sub>Python para Análise de Dados<br>Coursera (em andamento)</sub>
+        <sub>Python for Data Analysis<br>Coursera (em andamento)</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/pie-chart.png" alt="Data Viz"/><br>
@@ -75,7 +75,7 @@
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/statistics.png" alt="Estatística"/><br>
-        <sub>Estatística Aplicada<br>Coursera (em andamento)</sub>
+        <sub>Applied Statistics<br>Coursera (em andamento)</sub>
       </td>
     </tr>
   </table>
@@ -91,19 +91,19 @@
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/55/happy.png" alt="Melhorar Experiência" /><br>
-        <sub>Melhorar a experiência dos colaboradores</sub>
+        <sub>Improving the employee experience</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/money.png" alt="Reduzir Custos" /><br>
-        <sub>Reduzir custos com rotatividade e absenteísmo</sub>
+        <sub>Reduce costs associated with turnover and absenteeism</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/diversity.png" alt="Diversidade" /><br>
-        <sub>Apoiar políticas de diversidade e inclusão</sub>
+        <sub>Support diversity and inclusion policies</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/analytics.png" alt="Decisões Baseadas em Dados" /><br>
-        <sub>Tomar decisões estratégicas baseadas em dados</sub>
+        <sub>Make strategic decisions based on data</sub>
       </td>
     </tr>
   </table>
