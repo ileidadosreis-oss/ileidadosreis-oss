@@ -59,23 +59,23 @@
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/55/combo-chart--v1.png" alt="Google Data Analytics"/><br>
-        <sub>Google Data Analytics<br>Coursera (em andamento)</sub>
+        <sub>Google Data Analytics<br>Coursera (in progress)</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/ms-excel.png" alt="Excel"/><br>
-        <sub>Excel for Data Analysis<br>Coursera (em andamento)</sub>
+        <sub>Excel for Data Analysis<br>Coursera (in progress))</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/python.png" alt="Python"/><br>
-        <sub>Python for Data Analysis<br>Coursera (em andamento)</sub>
+        <sub>Python for Data Analysis<br>Coursera (in progress))</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/pie-chart.png" alt="Data Viz"/><br>
-        <sub>Tableau/Power BI<br>Coursera (em andamento)</sub>
+        <sub>Tableau/Power BI<br>Coursera (in progress)</sub>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/55/statistics.png" alt="Estatística"/><br>
-        <sub>Applied Statistics<br>Coursera (em andamento)</sub>
+        <sub>Applied Statistics<br>Coursera (in progress)</sub>
       </td>
     </tr>
   </table>
