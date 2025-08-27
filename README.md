@@ -6,23 +6,12 @@
 🌎 I seek to apply my skills in the **United States** market, combining my management experience with data analysis.
 
 
-
-</a> 
-    <a href="https://github.com/ileidadosreis-oss?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total stars" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ileidadosreis-oss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ileidadosreis-oss?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ileidadosreis-oss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<p align="left"> 
+      <a href="https://github.com/ileidadosreis-oss?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ileidadosreis-oss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ileidadosreis-oss?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ileidadosreis-oss?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 ### Soft Skills
 
