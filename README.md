@@ -1,4 +1,4 @@
-##  👩🏻‍💻 Ileida dos Reis
+## Ileida dos Reis
 
 
 🎯 **Data Analyst in training**, with a solid background in **Management** (Bachelor's Degree) and **Human Resources Management** (Master's Degree).  
@@ -24,7 +24,7 @@
     </a>
 </p>
 
-### 🌸 Soft Skills
+### Soft Skills
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 </div>
 
-### 🎓 Courses & Certifications
+### Courses & Certifications
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 </div>
 
 
-### 📈 Career Objective
+###  Career Objective
 
 <div align="center">
 
@@ -116,7 +116,7 @@
  
 
 ---
-# Socials
+### Socials
 
 Here you can find all my online profiles, feel free to connect.
 
