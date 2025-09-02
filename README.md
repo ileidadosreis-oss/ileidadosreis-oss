@@ -47,7 +47,7 @@
   <table>
     <tr>
         <td align="center">
-         <a href="[LINK_DO_SEU_CERTIFICADO](https://coursera.org/verify/specialization/ZMUW739JMYTK)" target="_blank">
+         <a href="https://coursera.org/verify/specialization/ZMUW739JMYTK" target="_blank">
       <img src="https://img.icons8.com/color/55/combo-chart--v1.png" alt="HR for People Managers"/><br>
       <sub>HR for People Managers<br>University of Minnesota | Coursera</sub>
       </td>
