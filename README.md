@@ -110,7 +110,7 @@
 
 Here you can find all my online profiles, feel free to connect.
 
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://wwww.linkedin.com/in/ileidareis-/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ileida-reis/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ileidadosreis@gmail.com)
 
 ---
