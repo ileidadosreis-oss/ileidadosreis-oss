@@ -84,7 +84,9 @@
 </div>
 
 
-###  Career Objective
+###  📈 Career Goals
+
+I aim to build a career in Data Analytics, HR Analytics, and People Analytics, helping organizations:
 
 <div align="center">
 
@@ -120,5 +122,10 @@ Here you can find all my online profiles, feel free to connect.
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ileida-reis/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ileidadosreis@gmail.com)
 
----
+
+### Projects & Portfolio
+
+🚧 Projects coming soon! I plan to share hands-on work in data cleaning, visualization, workforce metrics, and HR analytics as I continue learning.
+
+
 ✨ Thank you for visiting my profile!
