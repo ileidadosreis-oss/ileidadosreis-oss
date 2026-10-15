@@ -1,9 +1,12 @@
 ## Ileida dos Reis
 
 
-🎯 **Data Analyst in training**, with a solid background in **Management** (Bachelor's Degree) and **Human Resources Management** (Master's Degree).  
+🎓 I hold a **Bachelor's degree in Management** and a **Master's degree in Human Resources Management**. I am currently developing my skills in **Data Analytics and People Analytics**.
+💼 I work as a **Team Leader & Resident Care Associate** in the United States, building on experience in team leadership, customer service, communication, operational coordination, and problem-solving.  
 💡 I am passionate about transforming data into insights that support strategic decisions in **People Analytics**.  
-🌎 I seek to apply my skills in the **United States** market, combining my management experience with data analysis.
+🌎 I am expanding my knowledge of Excel, Python, SQL, Power BI, and data visualization as I build a career that combines my management and HR background with analytics.
+🗣️ Languages: Portuguese | English | Cape Verdean Creole | Basic Spanish
+
 
 
 <p align="left"> 
